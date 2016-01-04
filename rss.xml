@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Leather Luscious - Luxury In Its Rawwwr - Handmade]]></title>
         <description><![CDATA[Leather Luscious - Luxury In Its Rawwwr - Handmade]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/leather-luscious-luxury-in-the-rawwwr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 11:11:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 07:14:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/leather-luscious-luxury-in-the-rawwwr/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HOME]]></title>
+            <description><![CDATA[<article><h1>HOME</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3939e2c61246cdf72e1a8caf49c5b0ab1692ae67.jpg"></article>]]></description>
+            <link>https://thegrid.ai/leather-luscious-luxury-in-the-rawwwr/home/index.html</link>
+            <guid isPermaLink="false">a3ff7668-f926-4915-afaf-896aef5f2b5c</guid>
+            <pubDate>Mon, 04 Jan 2016 07:14:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Double sided bow tie - man's best friend :)]]></title>
             <description><![CDATA[<article><h1>Double sided bow tie - man's best friend :)</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5fa3044483d1cef73c2e0b53742ee00dce5a5043.jpg"></article>]]></description>
-            <link>undefineddouble-sided-bow-tie-mans-best-friend/index.html</link>
+            <link>https://thegrid.ai/leather-luscious-luxury-in-the-rawwwr/double-sided-bow-tie-mans-best-friend/index.html</link>
             <guid isPermaLink="false">c3f65bd1-705d-4abe-9213-dbc6da9be1cb</guid>
             <pubDate>Wed, 30 Dec 2015 11:11:41 GMT</pubDate>
         </item>
