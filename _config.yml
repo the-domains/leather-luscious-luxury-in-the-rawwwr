@@ -1,7 +1,7 @@
 name: Leather Luscious - Luxury In The Rawwwr
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.49537
+layout_spectrum: 1
+typography_spectrum: 0.12594
 title: Leather Luscious - Luxury In Its Rawwwr - Handmade
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#b50101'
-    - '#626262'
-    - '#c8c8c8'
-  brandStrength: 0
-  lightness: 0.7777561279945076
+    - '#f6efe9'
+    - '#010101'
+    - '#fec416'
+    - '#947864'
+    - '#f42538'
+  brandStrength: 0.5
+  lightness: 1
   saturation: 0.25
-  rhythmicContrast: 0.4759864374063909
+  rhythmicContrast: 1
 purpose: []
