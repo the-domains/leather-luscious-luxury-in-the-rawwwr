@@ -1,6 +1,6 @@
-name: Leather Luscious - Luxury In The Rawwwr
+name: Leather Luscious - Luxury In Its Rawwwr - Handmade
 favicon: null
-layout_spectrum: 0.15884
+layout_spectrum: 1
 typography_spectrum: 0.14399
 title: Leather Luscious - Luxury In Its Rawwwr - Handmade
 cta:
@@ -24,6 +24,6 @@ color:
     - '#f42538'
   brandStrength: 0.5
   lightness: 1
-  saturation: 0.25
+  saturation: 0
   rhythmicContrast: 1
 purpose: []
